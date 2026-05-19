@@ -1,6 +1,9 @@
+# Proyecto Final de programación
+# Equipo: Marco Antonio Reyes Cuevas, Rubén Sánchez Suárez y Atziry Flores Rentería
+# Docente: Pierre Antoine Delice
+# Fecha: 18-05-2026
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Historia: El precio del silencio
 
 import tkinter as tk
 from tkinter import messagebox
